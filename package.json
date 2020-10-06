@@ -1,5 +1,5 @@
 {
-  "name": "vueproject",
+  "name": "responseCheck",
   "version": "1.0.0",
   "description": "My first vue project",
   "main": "webpack.config.js",

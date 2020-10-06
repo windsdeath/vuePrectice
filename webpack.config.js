@@ -5,6 +5,10 @@ const path = require('path');
 
 module.exports = {
     mode:'development',
+    devtool:'eval',
+    resolve:{
+        extensions:['.js','.vue']
+    },
     entry: './main.js',
     context: path.resolve(__dirname),
     output: {
