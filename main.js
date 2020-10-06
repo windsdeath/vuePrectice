@@ -1,4 +1,4 @@
 import Vue from 'vue';
-import NumberBaseball from './NumberBaseball.vue';
+import ResponseCheck from './ResponseCheck.vue';
 
 new Vue().$mount('#root');
